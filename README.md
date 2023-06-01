@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VitorShigueta/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://elaborate-buttercream-9615f7.netlify.app/)
+- Solution URL: [GitHub](https://github.com/VitorShigueta/product-preview-card-component)
+- Live Site URL: [Site](https://elaborate-buttercream-9615f7.netlify.app/)
 
 ## My process
 
@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/VitorShigueta)
+- Frontend Mentor - [@VitorShigueta](https://www.frontendmentor.io/profile/VitorShigueta)
